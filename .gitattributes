@@ -8,3 +8,4 @@
 # from (silently) modifying files which are read and written by LibrePCB. Do not
 # remove this line (or file) as is could lead into annoying and wrong behavior!
 * -text
+*.lp* linguist-language=LibrePCB
